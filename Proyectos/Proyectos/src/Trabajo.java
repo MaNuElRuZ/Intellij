@@ -5,5 +5,6 @@ public class Trabajo {
         System.out.println("hola mundo");
         System.out.println("que tal");
         System.out.println("bien");
+        System.out.println("yo tambien");
     }
 }

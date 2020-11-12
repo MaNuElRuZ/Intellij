@@ -6,5 +6,7 @@ public class Trabajo {
         System.out.println("que tal");
         System.out.println("bien");
         System.out.println("estamos vivos");
+        System.out.println("yo tambien");
+
     }
 }

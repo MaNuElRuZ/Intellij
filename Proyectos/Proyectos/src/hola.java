@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class hola {
+import java.util.Scanner;
+
+public class hola {
+    public static void main(String[] args) {
+        System.out.println("gg");
+    }
 }
